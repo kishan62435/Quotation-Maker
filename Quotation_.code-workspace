@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../Quotation_"
+		},
+		{
+			"path": "../quot2"
+		},
+		{
+			"path": "../jquery"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "jquery"
+	}
+}
