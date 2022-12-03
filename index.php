@@ -15,7 +15,7 @@ require 'dbcon.php';
         <title>Bootstrap demo</title>
         <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet" >
         <link href="style.css" rel="stylesheet" >
-        <link href="garbage/signin.css" rel="stylesheet">
+        <link href="signin.css" rel="stylesheet">
         
     </head>
     <body >
